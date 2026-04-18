@@ -1,4 +1,4 @@
-# Bag_loop_environmental
+# BagLoop_environmental
 # AI-Mediated Fashion Upcycling: A Framework for Transforming Post-Consumer Garments via CNN and Diffusion Models
 <img width="836" height="375" alt="image" src="https://github.com/user-attachments/assets/8cee9660-753c-47ae-9c43-df536485d3a9" />
 
